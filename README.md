@@ -1,13 +1,9 @@
 <h1 align="center">Hi, I'm Gam5K (Qichen Hao) 👋</h1>
 
-<h3 align="center">Computer Science Student @ Wilfrid Laurier University</h3>
-<h4 align="center">计算机科学在读 · Waterloo, ON, Canada</h4>
+<h3 align="center">软件开发者 / 设计师 / 内容创作者</h3>
+<h4 align="center">Software Developer / Designer / Content Creator</h4>
 
-<p align="center">
-I build things with code — from Discord bots to data tooling. Currently looking for software development opportunities.
-<br>
-我喜欢动手做项目,目前正在寻找软件开发相关的机会。
-</p>
+
 
 ---
 
