@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ryan (Qichen Hao) 👋</h1>
+<h1 align="center">Hi, I'm Gam5K (Qichen Hao) 👋</h1>
 
 <h3 align="center">Computer Science Student @ Wilfrid Laurier University</h3>
 <h4 align="center">计算机科学在读 · Waterloo, ON, Canada</h4>
